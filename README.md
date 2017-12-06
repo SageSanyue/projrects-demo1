@@ -1,2 +1,6 @@
-# projrects-demo1
-我的预学习项目
+# 姓名
+Saijun Xu
+## 教育经历
+Jilin University
+## 工作经历
+Quality Management
